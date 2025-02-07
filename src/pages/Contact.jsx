@@ -126,7 +126,7 @@ const ContactUs = () => {
             </div>
             <div className="col-md-4 mb-4 text-center">
               <h5>Address</h5>
-              <p>123 TrendAura St, Style City, USA</p>
+              <p>125-700 Shopify Madhapur Hyderabad</p>
             </div>
           </div>
         </div>
